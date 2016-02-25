@@ -1,5 +1,6 @@
 package com.anything.spotinout.common.vo;
 
+//TODO: remove file
 public class Shop {
 
 
